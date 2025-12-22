@@ -57,14 +57,15 @@ I'm a passionate full-stack developer dedicated to building robust and scalable 
 **Christian Ubac's GitHub Stats**
 
 ```
-📈 STATS OVERVIEW (2025)
+📈 STATS OVERVIEW (2025 - UPDATED Dec 22)
 ├─ Total Stars Earned: 0
-├─ Total Commits: 104
+├─ Total Commits: 113+ (including profile updates)
 ├─ Total Pull Requests: 24
 ├─ Total Issues: 1
-├─ Repositories Contributed To: 3
-├─ Total Contributions (2024-2025): 154
-├─ Current Streak: 0 days (Ready to start! 💪)
+├─ Repositories Owned: 5
+├─ Repositories Contributed To: 3+
+├─ Total Contributions (2024-2025): 154+
+├─ Current Streak: 0 days (Reset & Go! 💪)
 └─ Longest Streak: 5 days (Dec 15-19, 2024)
 ```
 
@@ -131,15 +132,16 @@ I'm a passionate full-stack developer dedicated to building robust and scalable 
 
 | Metric | 2024-2025 | Status |
 |--------|-----------|--------|
-| **Total Commits** | 104 | 📝 Active Development |
+| **Total Commits** | 113+ | 📝 Active Development |
 | **Total Pull Requests** | 24 | 🔀 Collaborative |
 | **Total Issues** | 1 | ✅ Well Maintained |
-| **Total Contributions** | 154 | 🚀 Consistent |
+| **Total Contributions** | 154+ | 🚀 Consistent |
 | **Repositories Owned** | 5 | 💾 Portfolio Rich |
-| **Repositories Contributed To** | 3 | 🤝 Team Player |
+| **Repositories Contributed To** | 3+ | 🤝 Team Player |
 | **Current Streak** | 0 days | 🎯 Reset & Restart! |
 | **Longest Streak** | 5 days | 🏆 Best: Dec 15-19 |
 | **Stars Earned** | 0 | ⭐ Building Audience |
+| **Recent Updates** | Dec 22, 2025 | 🔄 Profile Refresh |
 
 ---
 
@@ -197,7 +199,8 @@ I'm a passionate full-stack developer dedicated to building robust and scalable 
 | CSC-126 | ~25 | 5 | 1 | Java/C++ |
 | chatboi | ~15 | 5 | 0 | JavaScript |
 | Sms_assignment | ~9 | 3 | 0 | Python |
-| **TOTAL** | **104** | **24** | **1** | **Multi-Stack** |
+| **christian-ubac (Profile)** | **9** | **0** | **0** | **Markdown** |
+| **TOTAL** | **113+** | **24** | **1** | **Multi-Stack** |
 
 ---
 
@@ -207,6 +210,17 @@ I'm a passionate full-stack developer dedicated to building robust and scalable 
 - ✅ **Ongoing**: Portfolio website enhancements
 - ✅ **Ongoing**: Chatboi feature expansion
 - 🎓 **Academic**: CSC-126 coursework completion
+- 📌 **Dec 22, 2025**: Completed comprehensive profile README overhaul with 6 commits
+
+### Recent Commits (Dec 2025)
+```
+b8aeeeb - 2025 Complete Overhaul: Add comprehensive repository overview
+e31c229 - Add comprehensive project details for all repositories
+8e24af2 - Update README with actual repository projects
+ea6386b - Add 2025 goals and quick stats summary
+bc5ba0a - Enhance README with comprehensive GitHub statistics
+ec6f2b4 - Update README with professional profile summary
+```
 - 🚀 **New**: Expanding to new technologies and frameworks
 
 ---
