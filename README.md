@@ -10,6 +10,12 @@ I'm a passionate full-stack developer dedicated to building robust and scalable 
 - 💡 **Interests**: Web development, software architecture, and open-source contributions
 - ⚡ **Fun Fact**: Passionate about combining clean code with creative problem-solving
 
+### 2025 Goals
+- 🎯 Master advanced TypeScript and Vue 3 Composition API
+- 🚀 Contribute to open-source projects
+- 📚 Deepen full-stack development expertise
+- 🏆 Build production-ready applications
+
 ---
 
 ## 🌐 Connect With Me
@@ -82,6 +88,20 @@ I'm a passionate full-stack developer dedicated to building robust and scalable 
 ### ✍️ Daily Motivation
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+## 📈 Quick Stats Summary
+
+| Metric | Count |
+|--------|-------|
+| Total Commits | 104 |
+| Total Pull Requests | 24 |
+| Total Issues | 1 |
+| Total Contributions (2024-2025) | 154 |
+| Repositories Contributed To | 3+ |
+| Longest Streak | 5 Days |
+| Languages Mastered | 5+ |
 
 ---
 
