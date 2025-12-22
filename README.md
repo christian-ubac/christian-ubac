@@ -111,18 +111,42 @@ I'm a passionate full-stack developer dedicated to building robust and scalable 
 
 1. **[christian-ubac.github.io](https://github.com/christian-ubac/christian-ubac.github.io)** 
    - Personal GitHub Pages portfolio
+   - **Tech Stack**: HTML5, CSS, JavaScript
+   - **Purpose**: Professional portfolio and personal brand showcase
 
 2. **[Meal-Planner-React_Native-Expo](https://github.com/christian-ubac/Meal-Planner-React_Native-Expo)**
    - React Native mobile application for meal planning
+   - **Tech Stack**: React Native, Expo, JavaScript
+   - **Purpose**: Cross-platform meal planning and recipe management app
+   - **Features**: Meal scheduling, recipe search, shopping lists
 
 3. **[CSC-126](https://github.com/christian-ubac/CSC-126)**
    - Academic coursework project
+   - **Purpose**: University computer science coursework
+   - **Topics**: Algorithms, Data Structures, Programming Fundamentals
 
 4. **[chatboi](https://github.com/christian-ubac/chatboi)**
    - Chat application project
+   - **Tech Stack**: JavaScript, Web Technologies
+   - **Purpose**: Real-time messaging and communication platform
+   - **Features**: User authentication, message history, real-time updates
 
 5. **[Sms_assignment](https://github.com/christian-ubac/Sms_assignment)**
    - SMS-based assignment management system
+   - **Tech Stack**: Backend development, API integration
+   - **Purpose**: Manage and track academic assignments via SMS
+
+---
+
+## 📂 Repository Breakdown
+
+| Repository | Type | Status | Language |
+|-----------|------|--------|----------|
+| christian-ubac.github.io | Portfolio | Active | HTML, CSS, JS |
+| Meal-Planner-React_Native-Expo | Mobile App | Active | React Native |
+| CSC-126 | Academic | Completed | Java/C++ |
+| chatboi | Application | Active | JavaScript |
+| Sms_assignment | Backend | Completed | Python/Node |
 
 ---
 
