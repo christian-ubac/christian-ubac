@@ -95,13 +95,34 @@ I'm a passionate full-stack developer dedicated to building robust and scalable 
 
 | Metric | Count |
 |--------|-------|
-| Total Commits | 104 |
+| Total Commits | 106 |
 | Total Pull Requests | 24 |
 | Total Issues | 1 |
 | Total Contributions (2024-2025) | 154 |
-| Repositories Contributed To | 3+ |
+| Repositories Contributed To | 5+ |
 | Longest Streak | 5 Days |
 | Languages Mastered | 5+ |
+
+---
+
+## 🗂️ Key Projects
+
+### Top Repositories
+
+1. **[christian-ubac.github.io](https://github.com/christian-ubac/christian-ubac.github.io)** 
+   - Personal GitHub Pages portfolio
+
+2. **[Meal-Planner-React_Native-Expo](https://github.com/christian-ubac/Meal-Planner-React_Native-Expo)**
+   - React Native mobile application for meal planning
+
+3. **[CSC-126](https://github.com/christian-ubac/CSC-126)**
+   - Academic coursework project
+
+4. **[chatboi](https://github.com/christian-ubac/chatboi)**
+   - Chat application project
+
+5. **[Sms_assignment](https://github.com/christian-ubac/Sms_assignment)**
+   - SMS-based assignment management system
 
 ---
 
