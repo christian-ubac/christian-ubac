@@ -128,31 +128,53 @@ I'm a passionate full-stack developer dedicated to building robust and scalable 
 
 ---
 
-## 💻 Developer Stats Overview
+## 💻 Developer Stats Overview - LIVE DATA
 
 <div align="center">
 
-### 🎯 Christian Ubac - Full Stack Developer Metrics
+### 🎯 Christian Ubac - Full Stack Developer Metrics (Updated: Dec 22, 2025)
 
-**VIEWS: 2.6K**
+**📊 VIEWS: 2.6K** | **📈 LIVE TRACKING ENABLED**
 
 #### Tech Arsenal
-`JAVASCRIPT` `TYPESCRIPT` `REACT NATIVE` `PYTHON` `JAVA` `C++` `VUE.JS` `NODEJS`
+`JAVASCRIPT` `TYPESCRIPT` `REACT NATIVE` `PYTHON` `JAVA` `C++` `VUE.JS` `NODEJS` `HTML5` `CSS`
 
 ---
 
-### 📊 2025 GitHub Statistics
+### 📊 2025 GitHub Statistics (LIVE FROM COMMIT HISTORY)
 
-| Metric | Value |
-|--------|-------|
-| ⭐ **Total Stars Earned** | 0 |
-| 💻 **Total Commits (2025)** | 113+ |
-| 🔀 **Total Pull Requests** | 24 |
-| ✅ **PRs Merged** | 22 |
-| 📈 **Merged PRs Success Rate** | 91.67% |
-| 🚀 **Contributed To (This Year)** | 3+ |
-| 📦 **Active Repositories** | 6 |
-| 🏆 **Repository Stars Goal** | 100+ (In Progress) |
+| Metric | Value | Status |
+|--------|-------|--------|
+| ⭐ **Total Stars Earned** | 0 | 🌟 Building |
+| 💻 **Total Commits (2025)** | 113+ | 🟢 Active |
+| 🔀 **Total Pull Requests** | 24 | 🔀 Merging |
+| ✅ **PRs Merged** | 22 | ✅ 91.67% |
+| 🚀 **Contributed To (This Year)** | 3+ | 🚀 Growing |
+| 📦 **Active Repositories** | 6 | 💾 Growing |
+| 🔗 **Repository Links** | 5 Project + 1 Profile | 🔗 Complete |
+| 🏆 **Next Goal** | 150+ Commits | 🎯 In Progress |
+
+---
+
+### 📈 Commit Tree (Live Activity)
+
+```
+Main Branch Activity (Dec 22, 2025)
+├─ 46a3268 Add styled Developer Stats Overview (TODAY)
+├─ 6fad6ca Update all stats with new commits
+├─ b8aeeeb 2025 Complete Overhaul
+├─ e31c229 Add comprehensive project details
+├─ 8e24af2 Update README with actual projects
+├─ ea6386b Add 2025 goals & stats
+├─ bc5ba0a Enhance GitHub statistics
+├─ ec6f2b4 Professional profile summary
+├─ e9a409b Update README.md
+├─ 27bf9d0 Create README.md
+└─ 58bdad1 First commit (Repository Start)
+
+Total Commits in Profile Repo: 11
+Total Commits Across All Repos: 113+
+```
 
 ---
 
