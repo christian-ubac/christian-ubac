@@ -46,11 +46,20 @@ I'm a passionate full-stack developer dedicated to building robust and scalable 
 
 ## 📊 GitHub Statistics
 
+### Overview
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christian-ubac&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)
 
+### Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=christian-ubac&theme=nightowl&hide_border=false)
 
+### Languages & Skills
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christian-ubac&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=christian-ubac&theme=nightowl&hide_border=false&area=true&bg_color=0D1117)
+
+### Wakatime Stats
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=christian-ubac&theme=nightowl&hide_border=false&layout=compact)
 
 ---
 
@@ -60,9 +69,13 @@ I'm a passionate full-stack developer dedicated to building robust and scalable 
 
 ---
 
-## 💡 Contributions
+## 💡 Contributions & Projects
 
+### Top Contributed Repositories
 ![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=christian-ubac&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+### Repository Stats
+![Repos](https://github-readme-stats.vercel.app/api?username=christian-ubac&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl&hide_border=false&custom_title=Repository%20Insights)
 
 ---
 
