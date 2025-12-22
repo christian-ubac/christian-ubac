@@ -128,6 +128,38 @@ I'm a passionate full-stack developer dedicated to building robust and scalable 
 
 ---
 
+## 💻 Developer Stats Overview
+
+<div align="center">
+
+### 🎯 Christian Ubac - Full Stack Developer Metrics
+
+**VIEWS: 2.6K**
+
+#### Tech Arsenal
+`JAVASCRIPT` `TYPESCRIPT` `REACT NATIVE` `PYTHON` `JAVA` `C++` `VUE.JS` `NODEJS`
+
+---
+
+### 📊 2025 GitHub Statistics
+
+| Metric | Value |
+|--------|-------|
+| ⭐ **Total Stars Earned** | 0 |
+| 💻 **Total Commits (2025)** | 113+ |
+| 🔀 **Total Pull Requests** | 24 |
+| ✅ **PRs Merged** | 22 |
+| 📈 **Merged PRs Success Rate** | 91.67% |
+| 🚀 **Contributed To (This Year)** | 3+ |
+| 📦 **Active Repositories** | 6 |
+| 🏆 **Repository Stars Goal** | 100+ (In Progress) |
+
+---
+
+</div>
+
+---
+
 ## 📈 Quick Stats Summary
 
 | Metric | 2024-2025 | Status |
