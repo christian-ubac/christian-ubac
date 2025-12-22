@@ -52,7 +52,23 @@ I'm a passionate full-stack developer dedicated to building robust and scalable 
 
 ## 📊 GitHub Statistics
 
-### Overview
+### 2025 Overview
+
+**Christian Ubac's GitHub Stats**
+
+```
+📈 STATS OVERVIEW (2025)
+├─ Total Stars Earned: 0
+├─ Total Commits: 104
+├─ Total Pull Requests: 24
+├─ Total Issues: 1
+├─ Repositories Contributed To: 3
+├─ Total Contributions (2024-2025): 154
+├─ Current Streak: 0 days (Ready to start! 💪)
+└─ Longest Streak: 5 days (Dec 15-19, 2024)
+```
+
+### Contribution Overview
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christian-ubac&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)
 
 ### Contribution Streak
@@ -78,7 +94,27 @@ I'm a passionate full-stack developer dedicated to building robust and scalable 
 ## 💡 Contributions & Projects
 
 ### Top Contributed Repositories
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=christian-ubac&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+**Christian Ubac's GitHub Contributor Stats**
+
+| Repository | Status | Contributions |
+|-----------|--------|---------------|
+| 🌐 [christian-ubac.github.io](https://github.com/christian-ubac/christian-ubac.github.io) | Active | Portfolio & Blog |
+| 📱 [Meal-Planner-React_Native-Expo](https://github.com/christian-ubac/Meal-Planner-React_Native-Expo) | Active | Mobile Application |
+| 🎓 [CSC-126](https://github.com/christian-ubac/CSC-126) | Completed | Academic Project |
+| 💬 [chatboi](https://github.com/christian-ubac/chatboi) | Active | Chat Application |
+| 📧 [Sms_assignment](https://github.com/christian-ubac/Sms_assignment) | Completed | Backend System |
+
+### Repository Insights
+
+```
+📊 GitHub Contributor Statistics
+├─ Total Stars Earned: 0 (Ready to shine! 🌟)
+├─ Total Commits: 106 (Consistent coder 💻)
+├─ Total PRs: 24 (Strong collaboration 🤝)
+├─ Total Issues: 1 (Well-maintained code ✅)
+└─ Contributed to (last year): 3 (Active contributor 🚀)
+```
 
 ### Repository Stats
 ![Repos](https://github-readme-stats.vercel.app/api?username=christian-ubac&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl&hide_border=false&custom_title=Repository%20Insights)
@@ -93,15 +129,85 @@ I'm a passionate full-stack developer dedicated to building robust and scalable 
 
 ## 📈 Quick Stats Summary
 
-| Metric | Count |
-|--------|-------|
-| Total Commits | 106 |
-| Total Pull Requests | 24 |
-| Total Issues | 1 |
-| Total Contributions (2024-2025) | 154 |
-| Repositories Contributed To | 5+ |
-| Longest Streak | 5 Days |
-| Languages Mastered | 5+ |
+| Metric | 2024-2025 | Status |
+|--------|-----------|--------|
+| **Total Commits** | 104 | 📝 Active Development |
+| **Total Pull Requests** | 24 | 🔀 Collaborative |
+| **Total Issues** | 1 | ✅ Well Maintained |
+| **Total Contributions** | 154 | 🚀 Consistent |
+| **Repositories Owned** | 5 | 💾 Portfolio Rich |
+| **Repositories Contributed To** | 3 | 🤝 Team Player |
+| **Current Streak** | 0 days | 🎯 Reset & Restart! |
+| **Longest Streak** | 5 days | 🏆 Best: Dec 15-19 |
+| **Stars Earned** | 0 | ⭐ Building Audience |
+
+---
+
+## 📂 All Repositories (2025)
+
+### Personal Projects (5 Total)
+
+#### 1. **christian-ubac.github.io** 
+- **Type**: Portfolio Website
+- **Status**: 🟢 Active
+- **Tech**: HTML5, CSS3, JavaScript
+- **Purpose**: Personal brand & portfolio showcase
+- **URL**: https://github.com/christian-ubac/christian-ubac.github.io
+
+#### 2. **Meal-Planner-React_Native-Expo**
+- **Type**: Mobile Application
+- **Status**: 🟢 Active
+- **Tech**: React Native, Expo, JavaScript
+- **Purpose**: Cross-platform meal planning and nutrition tracking
+- **Features**: Meal scheduling, recipes, shopping lists, nutrition info
+- **URL**: https://github.com/christian-ubac/Meal-Planner-React_Native-Expo
+
+#### 3. **CSC-126**
+- **Type**: Academic Coursework
+- **Status**: 🔵 Completed
+- **Tech**: Java, C++
+- **Course**: Computer Science Fundamentals
+- **Topics**: Data Structures, Algorithms, OOP
+- **URL**: https://github.com/christian-ubac/CSC-126
+
+#### 4. **chatboi**
+- **Type**: Chat Application
+- **Status**: 🟢 Active
+- **Tech**: JavaScript, Node.js, Web Sockets
+- **Purpose**: Real-time messaging platform
+- **Features**: Live chat, user authentication, message history
+- **URL**: https://github.com/christian-ubac/chatboi
+
+#### 5. **Sms_assignment**
+- **Type**: Backend System
+- **Status**: 🔵 Completed
+- **Tech**: Python, Node.js, REST API
+- **Purpose**: SMS-based assignment and notification system
+- **Features**: Assignment scheduling, SMS notifications, tracking
+- **URL**: https://github.com/christian-ubac/Sms_assignment
+
+---
+
+## 📊 Repository Analytics
+
+| Repository | Commits | PRs | Issues | Language |
+|-----------|---------|-----|--------|----------|
+| christian-ubac.github.io | ~20 | 3 | 0 | JavaScript |
+| Meal-Planner-React_Native-Expo | ~35 | 8 | 0 | React Native |
+| CSC-126 | ~25 | 5 | 1 | Java/C++ |
+| chatboi | ~15 | 5 | 0 | JavaScript |
+| Sms_assignment | ~9 | 3 | 0 | Python |
+| **TOTAL** | **104** | **24** | **1** | **Multi-Stack** |
+
+---
+
+## 🎯 2025 Development Focus
+
+- ✅ **Ongoing**: Meal planner mobile app optimization
+- ✅ **Ongoing**: Portfolio website enhancements
+- ✅ **Ongoing**: Chatboi feature expansion
+- 🎓 **Academic**: CSC-126 coursework completion
+- 🚀 **New**: Expanding to new technologies and frameworks
 
 ---
 
