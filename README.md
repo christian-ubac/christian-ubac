@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=200&text=Christian%20Ubac&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&fontSize=46&desc=Full-stack%20Engineer%20%7C%20Web%20%26%20Mobile&descSize=18&descAlign=50&descAlignY=65)
+
 
 Full-stack developer focused on reliable, user-centered web and mobile experiences.
 
@@ -9,9 +9,7 @@ Full-stack developer focused on reliable, user-centered web and mobile experienc
 - Current focus: Vue 3, TypeScript-first full-stack builds, React Native for mobile
 - Collaboration: Open to teaming up on product builds and open-source
 
-## Visuals
-- Hero: ![3D Hero](https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80)
-- Looping animation: ![3D Loop](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWR6eWd2ajJnYXFqM3IwYzAxeGp2YjdrMnk4aHA2d2p1Y2pxdHNwMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7abB06u9bNzA8lu8/giphy.gif)
+
 
 ## Tech Stack
 ![Tech Stack](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
